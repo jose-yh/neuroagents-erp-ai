@@ -6,10 +6,10 @@ Through these projects, I explore different ways AI can add value to decision-ma
 This repository compiles the projects I developed during my training, as well as others I continue to work on as part of my specialization.
 
 # List of projects:
-- [In this repository a game is being created in Python (Battleship PvE), where players face an AI.] (https://github.com/apvwbm/Team-Challenge---Team-Leviathan)
-- [Database Design and SQL Murder. This repository contains two practical exercises related to databases.] (https://github.com/apvwbm/Team-Challenge---Team-Miss-Marple/tree/main/practica_2)
-- [This repository showcases the basic tools for machine learning. This project is part of the first phase of the Team Challenge, which aims to develop a set of basic tools to facilitate the creation of machine learning models.] (https://github.com/apvwbm/Team-Challenge---Lost-in-ML/tree/main)
-- [This repository contains the development work for Team Challenge: Pipelines. We implemented Scikit-learn pipelines to predict car prices (Price) using a Kaggle dataset.] (https://github.com/neural-insights/Team-Challenge---Still_Lost_in_ML)
-- [This repository contains the Bootcamp classes in Data Science and Artificial Intelligence.] (https://github.com/jose-yh)
-- [This repository contains the development of the "ML_Real estate price predictions" project to predict real estate prices using an API requested to Idealista.] (https://github.com/jose-yh/ML_Real_estate_price_predictions)
-- [This repository builds a REST API using FastAPI to estimate a car's price based on its features. It uses a Random Forest-based machine learning model trained with real-world data.] (https://github.com/Jobave589/API_con_Render) 
+- In this repository a game is being created in Python (Battleship PvE), where players face an AI. https://github.com/apvwbm/Team-Challenge---Team-Leviathan
+- Database Design and SQL Murder. This repository contains two practical exercises related to databases. https://github.com/apvwbm/Team-Challenge---Team-Miss-Marple/tree/main/practica_2
+- This repository showcases the basic tools for machine learning. This project is part of the first phase of the Team Challenge, which aims to develop a set of basic tools to facilitate the creation of machine learning models. https://github.com/apvwbm/Team-Challenge---Lost-in-ML/tree/main
+- This repository contains the development work for Team Challenge: Pipelines. We implemented Scikit-learn pipelines to predict car prices (Price) using a Kaggle dataset. https://github.com/neural-insights/Team-Challenge---Still_Lost_in_ML
+- This repository contains the Bootcamp classes in Data Science and Artificial Intelligence. https://github.com/jose-yh
+- This repository contains the development of the "ML_Real estate price predictions" project to predict real estate prices using an API requested to Idealista. https://github.com/jose-yh/ML_Real_estate_price_predictions
+- This repository builds a REST API using FastAPI to estimate a car's price based on its features. It uses a Random Forest-based machine learning model trained with real-world data. https://github.com/Jobave589/API_con_Render
