@@ -5,7 +5,7 @@ Through these projects, I explore different ways AI can add value to decision-ma
 
 This repository compiles the projects I developed during my training, as well as others I continue to work on as part of my specialization.
 
-# Lista de Proyectos:
+# List of projects:
 - a
 - b
 - c
