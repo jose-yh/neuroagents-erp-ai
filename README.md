@@ -1,4 +1,4 @@
-# neuroagents-erp-ai
+# 🤖 neuroagents-erp-ai
 
 Hello. Welcome to my page.
 
