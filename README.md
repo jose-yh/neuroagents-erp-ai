@@ -59,6 +59,6 @@ Also, I will continue to upload my personal projects and ideas about intelligent
 
 If you want to learn more, collaborate, or give feedback:
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/jos%C3%A9-yaya-a1784811/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-yaya-a1784811/)
 - 🐙 [GitHub](https://github.com/jose-yh/neuroagents-erp-ai/tree/main)
 - 📧 Email: jose_yaya@yahoo.es
