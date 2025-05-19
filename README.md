@@ -9,7 +9,7 @@ Through these projects, I explore different ways AI can add value to decision-ma
 This repository compiles the projects I developed during my training, as well as others I continue to work on as part of my specialization.
 
 
-# 🎯 Objective
+## 🎯 Objective
 
 Apply advanced AI and Data Science concepts to:
 
@@ -18,7 +18,7 @@ Apply advanced AI and Data Science concepts to:
 - Contribute to improving decision-making efficiency on platforms such as ERPs, SAP, and other technologies.
 
 
-# 📂 List of projects:
+## 📂 List of projects:
 
 - In this repository a game is being created in Python (Battleship PvE), where players face an AI. https://github.com/apvwbm/Team-Challenge---Team-Leviathan
 - Database Design and SQL Murder. This repository contains two practical exercises related to databases. https://github.com/apvwbm/Team-Challenge---Team-Miss-Marple/tree/main/practica_2
@@ -29,7 +29,7 @@ Apply advanced AI and Data Science concepts to:
 - This repository builds a REST API using FastAPI to estimate a car's price based on its features. It uses a Random Forest-based machine learning model trained with real-world data. https://github.com/Jobave589/API_con_Render
 
 
-# 🧠 Technologies and tools
+## 🧠 Technologies and tools
 
 - **Languages:** Python, SQL, Markdown
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow (basic)
@@ -39,12 +39,12 @@ Apply advanced AI and Data Science concepts to:
 
 
 
-# 🚀 In development
+## 🚀 In development
 
 - Explore Deep Learning with TensorFlow and PyTorch.
 - Learn about MLOps and cloud deployment.
 - Develop interactive dashboards with integrated AI.
-- Connect models to ERP system APIs like SAP.
+- Connect models with APIs from different systems (IT, ERP, among others)..
   
 Also, I will continue to upload my personal projects and ideas about intelligent agents here.
 
@@ -59,6 +59,6 @@ Also, I will continue to upload my personal projects and ideas about intelligent
 
 If you want to learn more, collaborate, or give feedback:
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/jos%C3%A9-yaya-a1784811/))
-- 🐙 [GitHub]( )
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/jos%C3%A9-yaya-a1784811/)
+- 🐙 [GitHub](https://github.com/jose-yh/neuroagents-erp-ai/tree/main)
 - 📧 Email: jose_yaya@yahoo.es
