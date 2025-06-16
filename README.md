@@ -48,6 +48,8 @@ Apply advanced AI and Data Science concepts to:
   
 Also, I will continue to upload my personal projects and ideas about intelligent agents here.
 
+- In parallel with these technical projects, I am currently preparing a free AI course for children in my local neighbourhood. The course aims to make AI concepts accessible, engaging, and age-appropriate through games, storytelling, and basic coding activities. This initiative represents both a social commitment and an exploratory platform for me to better understand how young learners engage with AI and what pedagogical tools and methods can support early education in emerging technologies.
+
 
 ## 🌐 Recommended Resources
 
